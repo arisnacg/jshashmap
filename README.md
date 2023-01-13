@@ -43,8 +43,3 @@ console.log(hashmap2)
 ## License
 
 MIT
-
-[npm-image]:
-[license-image]: https://img.shields.io/npm/l/jshashmap
-[npm-url]: https://npmjs.org/package/jshashmap
-[downloads-url]: https://npmjs.org/package/jshashmap

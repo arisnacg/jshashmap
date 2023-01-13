@@ -1,6 +1,6 @@
 {
   "name": "jshashmap",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple Javascript hash map utility library",
   "main": "index.js",
   "repository": "https://github.com/arisnacg/jshashmap.git",

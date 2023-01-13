@@ -1,4 +1,4 @@
-# AWS SDK for JavaScript
+# A Simple Javascript Utility Library
 
 ## How To Install
 

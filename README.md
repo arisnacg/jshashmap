@@ -1,5 +1,8 @@
 # A Simple Javascript Utility Library
 
+![npm version](https://img.shields.io/npm/v/jshashmap.svg)
+![license](https://img.shields.io/npm/l/jshashmap)
+
 ## How To Install
 
 The preferred way to install the `jshashmap` for Node.js is to use the
@@ -36,3 +39,12 @@ console.log(hashmap2)
 // Output:
 // Map(3) { 0 => 'Apple', 1 => 'Orange', 2 => 'Blueberry'
 ```
+
+## License
+
+MIT
+
+[npm-image]:
+[license-image]: https://img.shields.io/npm/l/jshashmap
+[npm-url]: https://npmjs.org/package/jshashmap
+[downloads-url]: https://npmjs.org/package/jshashmap

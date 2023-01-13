@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/arisnacg/jshashmap.git",
   "author": "Arisna <agus.aris83@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "hashmap",
+    "object",
+    "array",
+    "utility"
+  ]
 }

@@ -14,7 +14,7 @@ npm install jshashmap
 Version 1 only support 2 functions:
 
 - `objtToMap()`: Convert Javascript object into Javascript `Map` class
-- `arraytToMap()`: Convert Javascript object into Javascript `Map` class based on index
+- `arrayToMap()`: Convert Javascript object into Javascript `Map` class based on index
 
 ```javascript
 const jshashmap = require("jshashmap");
